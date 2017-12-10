@@ -1,6 +1,6 @@
 body {background-color:crimson;}
 
-h1 { font-family: Verdana;}
+h1 { font-family: Arial Black;}
 
 h2
 {
@@ -12,17 +12,20 @@ h2
 
 	color:teal;
 	font-size: 20px;
+        font-family: Arial Black;
 }
 
 
 li.melisa{
 color: pink;
+font-family: Arial Black;
 
 }
 
 
 table,tr,th,td{
      border: 1px solid black;
+     font-family: Arial Black;
 } 
 
 
@@ -31,6 +34,7 @@ table,tr,th,td{
 	
         display: inline;
         padding-left: 11px;
+        font-family: Arial Black;
 
 }
 
@@ -40,7 +44,7 @@ table,tr,th,td{
 	float: right;
 	margin: 1em;
 clear: both;
- font-family: 'Hind';
+ font-family: Arial Black;
 }
 
 #meni a
@@ -49,6 +53,7 @@ clear: both;
 	color: black;
 	text-decoration: none;
 	font-size: 20px;
+        font-family: Arial Black;
 	
 }
 

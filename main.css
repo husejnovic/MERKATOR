@@ -1,0 +1,54 @@
+body {background-color:crimson;}
+
+h1 { font-family: Verdana;}
+
+h2
+{
+	color:teal;
+}
+
+#tea
+{
+
+	color:teal;
+	font-size: 20px;
+}
+
+
+li.melisa{
+color: pink;
+
+}
+
+
+table,tr,th,td{
+     border: 1px solid black;
+} 
+
+
+
+#meni li {
+	
+        display: inline;
+        padding-left: 11px;
+
+}
+
+#meni
+{
+    
+	float: right;
+	margin: 1em;
+clear: both;
+ font-family: 'Hind';
+}
+
+#meni a
+{
+
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	
+}
+
